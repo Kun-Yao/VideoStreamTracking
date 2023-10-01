@@ -1,0 +1,21 @@
+git clone https://github.com/theAIGuysCode/yolov4-deepsort
+
+cd yolov4-deepsort
+conda env create -f conda-gpu.yml
+conda activate yolov4-gpu
+pip install -r requirements-gpu.txt
+
+
+下載 yolov3.weights 到 yolov4-deepsort\data
+https://drive.google.com/file/d/1I92QB0ifKoEOZcUq6gAfay-o4Tjw1xTU/edit
+
+
+執行
+python save_model.py --weights ./data/yolov3.weights --output ./checkpoints/yolov3-416 --model yolov3
+
+# track on video
+python object_tracker.py --weights ./checkpoints/yolov3-416 --model yolov3 --video ./data/video/test.mp4 --output ./outputs/video.avi
+
+#track on camera
+python object_tracker.py --weights ./checkpoints/yolov3-416 --model yolov3 --video 0 --output ./outputs/video.avi
+
