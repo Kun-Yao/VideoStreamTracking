@@ -1,15 +1,20 @@
 # VideoStreamTracking
-***HW1-Classification***
-
+***HW1-Classification***  
 Implement a VGG19-like Network to classify the dataset combined with 10 kinds of exercises
 
-**Dataset**
-
+**Dataset**  
+• The dataset consists 10 classes of 224 × 224 RGB images.  
+• 850 images for training, labels  
+• 285 for validation, labels  
+• 287 for testing  
 ![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW1_311551170/dataset.png)
 
-***HW2-Object Detection***
-
+***HW2-Object Detection***  
 Detecting cars in GTA videos with YOLOx and Squeeze-and-Excitation Networks
 
-**Dataset**
-
+**Dataset**  
+● GTA video dataset  
+● 1596 training images, labels  
+● 227 validation images, labels  
+● 456 testing images  
+![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW2_311551170/1001.jpg)
