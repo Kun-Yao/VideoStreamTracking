@@ -1,5 +1,6 @@
 # VideoStreamTracking
-***HW1-Classification***  
+Recording 3 homeworks of VST in 111-1
+# HW1-Classification  
 Implement a VGG19-like Network to classify the dataset combined with 10 kinds of exercises
 
 **Dataset**  
@@ -9,7 +10,7 @@ Implement a VGG19-like Network to classify the dataset combined with 10 kinds of
 • 287 for testing  
 ![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW1_311551170/dataset.png)
 
-***HW2-Object Detection***  
+# HW2-Object Detection  
 Detecting cars in GTA videos with YOLOx and Squeeze-and-Excitation Networks
 
 **Dataset**  
@@ -19,7 +20,7 @@ Detecting cars in GTA videos with YOLOx and Squeeze-and-Excitation Networks
 ● 456 testing images  
 ![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW2_311551170/1001.jpg)
 
-***HW3-Tracking***  
+# HW3-Tracking  
 Tracking people, dog and ball in a video by YOLOv4 and deepsort
 
 **Dataset**  
