@@ -18,3 +18,9 @@ Detecting cars in GTA videos with YOLOx and Squeeze-and-Excitation Networks
 ● 227 validation images, labels  
 ● 456 testing images  
 ![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW2_311551170/1001.jpg)
+
+***HW3-Tracking***  
+Tracking people, dog and ball in a video by YOLOv4 and deepsort
+
+**Dataset**  
+![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW3_311551170/volleyball.png)
