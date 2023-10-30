@@ -23,5 +23,5 @@ Detecting cars in GTA videos with YOLOx and Squeeze-and-Excitation Networks
 ## HW3-Tracking  
 Tracking people, dog and ball in a video by YOLOv4 and deepsort
 
-**Dataset**  
-![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW3_311551170/volleyball.png)
+**Result**  
+![image](https://github.com/Kun-Yao/Video_Stream_Tracking/blob/main/HW3_311551170/video.gif)
